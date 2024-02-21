@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manith</h1>
-<h3 align="center">A data scientist</h3>
+<h3 align="center">Data scientist & Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manith-ratnayake&label=Profile%20views&color=0e75b6&style=flat" alt="manith-ratnayake" /> </p>
 
